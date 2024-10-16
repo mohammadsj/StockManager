@@ -1,0 +1,13 @@
+# general modules 
+django >4.2,<4.3
+python-decouple
+djangorestframework
+markdown
+
+# third party modules
+django-filter
+drf-yasg[validation]
+
+# reformat modules Testing
+black
+flake8
