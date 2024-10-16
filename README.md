@@ -20,5 +20,6 @@ This project is a Warehouse Management System (WMS) built with Django and Django
 1. Clone the repository:
 
    ```bash
-   git clone <repository_url>
-   cd <repository_name>
+   git clone https://github.com/mohammadsj/StockManager/
+   cd docker-compose up --build
+
